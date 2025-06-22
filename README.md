@@ -6,7 +6,7 @@
 
 ## 🚀 Project Goals
 
-This framework demonstrates how tool-based agents can outperform traditional LLMs like ChatGPT in real-world wireless network deployment tasks, achieving up to 100× performance gain with lower compute requirements.
+This framework demonstrates how tool-based agents can outperform traditional LLMs like ChatGPT in real-world wireless network deployment tasks.
 
 ---
 
