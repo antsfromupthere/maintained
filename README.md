@@ -45,7 +45,7 @@ Then pull the model:
 
 ollama pull qwen:3b
 
-### 6. (Optional) Install smolagents
+### 6. Install smolagents
 For agent tool orchestration:
 
 pip install smolagents  
