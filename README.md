@@ -13,7 +13,7 @@ This framework demonstrates how tool-based agents can outperform traditional LLM
 ## 📦 Installation Guide
 
 ### 1. Clone the Repository
-git clone https://github.com/your_username/maintained.git  
+git clone https://github.com/antsfromupthere/maintained.git  
 cd maintained
 
 ### 2. Set Up Python Environment with Poetry
