@@ -66,7 +66,7 @@ maintained/hrpdm/sau_general_2020.csv
 
 ## 🙏 Acknowledgements
 
-This project integrates and builds upon the following open-source tools:
+This project integrates and builds upon the following tools:
 
 - pycraf: https://github.com/bwinkel/pycraf  
 - Google OR-Tools: https://developers.google.com/optimization  
