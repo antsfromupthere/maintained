@@ -36,7 +36,7 @@ def calculate_network_path_loss(pop_loc, cn_loc, tbs_loc, hap_loc, tx_rx_path_lo
         'pop': 50.0,  # Population tower height
         'cn': 1.5,  # Customer node height (ground level)
         'tbs': 50.0,  # Terrestrial base station height
-        'hap': 10000.0  # High altitude platform height (20km)
+        'hap': 20000.0  # High altitude platform height (20km)
     }
 
     # Step 1: Create a unified node index for all types of nodes
